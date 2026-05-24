@@ -110,4 +110,4 @@ MIT License
 
 ## Author
 
-[hsinha2004](https://github.com/hsinha2004/IntelliHire)
+[AnkitKumar729](https://github.com/AnkitKumar729/IntelliHire)
